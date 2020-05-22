@@ -1,0 +1,17 @@
+{
+  "name": "stylelint-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gary Valverde Hampton <garyhampton.12@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^13.5.0",
+    "stylelint-config-airbnb": "0.0.0",
+    "stylelint-order": "^4.0.0",
+    "stylelint-scss": "^3.17.2"
+  }
+}
